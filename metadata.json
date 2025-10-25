@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Speaking Test Simulator",
+  "description": "An interactive AI-powered application to practice for the IELTS speaking test. Users can engage in a real-time conversation with a Gemini-powered AI examiner, receive live transcriptions, and simulate the complete test experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
